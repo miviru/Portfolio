@@ -28,3 +28,4 @@ F:\MiPortafolio\obj\Debug\net8.0\MiPortafolio.pdb
 F:\MiPortafolio\obj\Debug\net8.0\MiPortafolio.genruntimeconfig.cache
 F:\MiPortafolio\obj\Debug\net8.0\ref\MiPortafolio.dll
 F:\MiPortafolio\obj\Debug\net8.0\scopedcss\Components\Layout\Footer.razor.rz.scp.css
+F:\MiPortafolio\obj\Debug\net8.0\MiPortafolio.sourcelink.json
