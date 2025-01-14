@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\MiPortafolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MiPortafolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MiPortafolio.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\Blazor.png",
+      "PackagePath": "staticwebassets\\Blazor.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\CSS.png",
+      "PackagePath": "staticwebassets\\CSS.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\CV_Miguel _Vicario.pdf",
+      "PackagePath": "staticwebassets\\CV_Miguel _Vicario.pdf"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\Logo4.png",
+      "PackagePath": "staticwebassets\\Logo4.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\MadMotor_transparent.svg",
+      "PackagePath": "staticwebassets\\MadMotor_transparent.svg"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\atp.jpg",
+      "PackagePath": "staticwebassets\\atp.jpg"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\bootstrap5.png",
+      "PackagePath": "staticwebassets\\bootstrap5.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\c# logo.png",
+      "PackagePath": "staticwebassets\\c# logo.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\c.svg",
+      "PackagePath": "staticwebassets\\c.svg"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\dbeaver.png",
+      "PackagePath": "staticwebassets\\dbeaver.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\docker.webp",
+      "PackagePath": "staticwebassets\\docker.webp"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\github.png",
+      "PackagePath": "staticwebassets\\github.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\github2.png",
+      "PackagePath": "staticwebassets\\github2.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\googlecloud.webp",
+      "PackagePath": "staticwebassets\\googlecloud.webp"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\html.png",
+      "PackagePath": "staticwebassets\\html.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\image.png",
+      "PackagePath": "staticwebassets\\image.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\intellij.png",
+      "PackagePath": "staticwebassets\\intellij.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\java.png",
+      "PackagePath": "staticwebassets\\java.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\javascript.png",
+      "PackagePath": "staticwebassets\\javascript.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\js\\particles-config.js",
+      "PackagePath": "staticwebassets\\js\\particles-config.js"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\laravel.png",
+      "PackagePath": "staticwebassets\\laravel.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\php.png",
+      "PackagePath": "staticwebassets\\php.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\postgresql.png",
+      "PackagePath": "staticwebassets\\postgresql.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\postman.webp",
+      "PackagePath": "staticwebassets\\postman.webp"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\springboot.png",
+      "PackagePath": "staticwebassets\\springboot.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\sql.png",
+      "PackagePath": "staticwebassets\\sql.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\tailwind.png",
+      "PackagePath": "staticwebassets\\tailwind.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\vscode.png",
+      "PackagePath": "staticwebassets\\vscode.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MiPortafolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MiPortafolio.props",
+      "PackagePath": "build\\MiPortafolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MiPortafolio.props",
+      "PackagePath": "buildMultiTargeting\\MiPortafolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MiPortafolio.props",
+      "PackagePath": "buildTransitive\\MiPortafolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
