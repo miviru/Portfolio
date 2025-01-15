@@ -61,10 +61,6 @@
       "PackagePath": "staticwebassets\\docker.webp"
     },
     {
-      "Id": "F:\\MiPortafolio\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
-    },
-    {
       "Id": "F:\\MiPortafolio\\wwwroot\\github.png",
       "PackagePath": "staticwebassets\\github.png"
     },
@@ -79,6 +75,10 @@
     {
       "Id": "F:\\MiPortafolio\\wwwroot\\html.png",
       "PackagePath": "staticwebassets\\html.png"
+    },
+    {
+      "Id": "F:\\MiPortafolio\\wwwroot\\icon.png",
+      "PackagePath": "staticwebassets\\icon.png"
     },
     {
       "Id": "F:\\MiPortafolio\\wwwroot\\image.png",

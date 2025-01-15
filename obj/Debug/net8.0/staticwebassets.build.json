@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QSL48lc9dnbRNR9khLujL18BdD29O9ur+DyXqtlVvaY=",
+  "Hash": "eEPQ9ULjkjyl/QfWwOc2gUuXL5zdgW00ioAqq+/4Gbk=",
   "Source": "MiPortafolio",
   "BasePath": "_content/MiPortafolio",
   "Mode": "Default",
@@ -283,25 +283,6 @@
       "OriginalItemSpec": "wwwroot\\docker.webp"
     },
     {
-      "Identity": "F:\\MiPortafolio\\wwwroot\\favicon.png",
-      "SourceId": "MiPortafolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\MiPortafolio\\wwwroot\\",
-      "BasePath": "_content/MiPortafolio",
-      "RelativePath": "favicon.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.png"
-    },
-    {
       "Identity": "F:\\MiPortafolio\\wwwroot\\github.png",
       "SourceId": "MiPortafolio",
       "SourceType": "Discovered",
@@ -376,6 +357,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\html.png"
+    },
+    {
+      "Identity": "F:\\MiPortafolio\\wwwroot\\icon.png",
+      "SourceId": "MiPortafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\MiPortafolio\\wwwroot\\",
+      "BasePath": "_content/MiPortafolio",
+      "RelativePath": "icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icon.png"
     },
     {
       "Identity": "F:\\MiPortafolio\\wwwroot\\image.png",
