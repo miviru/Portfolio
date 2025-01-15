@@ -105,8 +105,8 @@ h1:focus {
     padding: 5px 10px;
     border-radius: 5px;
     position: absolute;
-    top: 0%;
-    left: 275%; /* Posiciona a la derecha del elemento */
+    top: 100%; /* Posiciona el tooltip debajo del elemento */
+    left: 50%; /* Centra horizontalmente */
     transform: translateX(-50%);
     white-space: nowrap;
     font-size: 12px;
