@@ -23,10 +23,6 @@ main[b-lwi7kxerkq] {
     flex: 1; /* Este asegura que main tome todo el espacio restante */
 }
 
-.sidebar[b-lwi7kxerkq] {
-    background-color: black;
-    flex-shrink: 0; /* Para evitar que se reduzca */
-}
 
 @media (max-width: 640.98px) {
     .top-row[b-lwi7kxerkq] {
@@ -41,13 +37,6 @@ main[b-lwi7kxerkq] {
 @media (min-width: 641px) {
     .page[b-lwi7kxerkq] {
         flex-direction: row;
-    }
-
-    .sidebar[b-lwi7kxerkq] {
-        width: 250px;
-        height: 100vh;
-        position: sticky;
-        top: 0;
     }
 
     .top-row[b-lwi7kxerkq] {

@@ -36,10 +36,6 @@ main[b-lwi7kxerkq] {
     flex: 1; /* Este asegura que main tome todo el espacio restante */
 }
 
-.sidebar[b-lwi7kxerkq] {
-    background-color: black;
-    flex-shrink: 0; /* Para evitar que se reduzca */
-}
 
 @media (max-width: 640.98px) {
     .top-row[b-lwi7kxerkq] {
@@ -54,13 +50,6 @@ main[b-lwi7kxerkq] {
 @media (min-width: 641px) {
     .page[b-lwi7kxerkq] {
         flex-direction: row;
-    }
-
-    .sidebar[b-lwi7kxerkq] {
-        width: 250px;
-        height: 100vh;
-        position: sticky;
-        top: 0;
     }
 
     .top-row[b-lwi7kxerkq] {
@@ -119,7 +108,7 @@ main[b-lwi7kxerkq] {
 
 .top-row[b-g6k7wlw1j8] {
     height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0);
 }
 
 .navbar-brand[b-g6k7wlw1j8] {
@@ -187,10 +176,24 @@ main[b-lwi7kxerkq] {
     color: rgb(0, 0, 0); /* Texto negro */
 }
 
-/* Oculta el menú por defecto */
+/* Estilos generales para dispositivos móviles */
 .nav-scrollable[b-g6k7wlw1j8] {
-    display: none; /* Oculto inicialmente */
+    display: none; /* Oculta el menú inicialmente */
+    position: absolute;
+    left: 0;
+    width: 100%; /* Ocupa todo el ancho */
+    background-color: rgba(0, 0, 0);
+    z-index: 1000;
 }
+
+.nav-scrollable nav[b-g6k7wlw1j8] {
+    display: flex; /* Activa el modelo de caja flexible */
+    flex-direction: column; /* Organiza los elementos en una columna */
+    justify-content: center; /* Centra los elementos verticalmente */
+    align-items: center; /* Centra los elementos horizontalmente */
+    height: 100%; /* Asegúrate de que ocupe toda la altura disponible */
+}
+
 
 /* Muestra el menú si el checkbox está marcado */
 .navbar-toggler:checked ~ .nav-scrollable[b-g6k7wlw1j8] {
@@ -199,7 +202,7 @@ main[b-lwi7kxerkq] {
     top: 3.5rem; /* Para que quede justo debajo del botón */
     left: 0;
     width: 100%; /* Ocupa todo el ancho */
-    background-color: rgba(0, 0, 0, 0.8); /* Fondo semitransparente */
+    background-color: rgba(0, 0, 0);
     z-index: 1000; /* Asegura que se vea sobre otros elementos */
 }
 
@@ -217,18 +220,28 @@ main[b-lwi7kxerkq] {
     }
 }
 
+
+/* Estilos para pantallas grandes */
 @media (min-width: 641px) {
     .navbar-toggler[b-g6k7wlw1j8] {
-        display: none;
+        display: none; /* Oculta el botón de menú en pantallas grandes */
     }
 
     .nav-scrollable[b-g6k7wlw1j8] {
-        /* Never collapse the sidebar for wide screens */
-        display: block;
+        display: block; /* Asegura que el menú esté siempre visible */
+        position: fixed; /* Fija el menú al viewport */
+        top: 0; /* Colócalo debajo de la barra superior */
+        left: 0; /* Alineado al lado izquierdo */
+        width: 15rem; /* Ajusta el ancho según el diseño */
+        height: 100vh; /* Ocupa todo el alto menos la barra superior */
+        background-color: rgba(0, 0, 0);
+        z-index: 1000; /* Asegura que esté encima de otros elementos */
+    }
 
-        /* Allow sidebar to scroll for tall menus */
-        height: calc(100vh - 3.5rem);
-        overflow-y: auto;
+    .top-row[b-g6k7wlw1j8] {
+        margin-left: 15rem; /* Evita superposición del contenido principal */
     }
 }
+
+
 

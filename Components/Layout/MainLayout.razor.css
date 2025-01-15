@@ -23,10 +23,6 @@ main {
     flex: 1; /* Este asegura que main tome todo el espacio restante */
 }
 
-.sidebar {
-    background-color: black;
-    flex-shrink: 0; /* Para evitar que se reduzca */
-}
 
 @media (max-width: 640.98px) {
     .top-row {
@@ -41,13 +37,6 @@ main {
 @media (min-width: 641px) {
     .page {
         flex-direction: row;
-    }
-
-    .sidebar {
-        width: 250px;
-        height: 100vh;
-        position: sticky;
-        top: 0;
     }
 
     .top-row {
