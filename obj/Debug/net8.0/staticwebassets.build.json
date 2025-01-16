@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eEPQ9ULjkjyl/QfWwOc2gUuXL5zdgW00ioAqq+/4Gbk=",
+  "Hash": "GLBOFw7rQLSAXd5mD54I3WTD/S9rl8/Jr7iKX2meDHY=",
   "Source": "MiPortafolio",
   "BasePath": "_content/MiPortafolio",
   "Mode": "Default",
@@ -226,12 +226,12 @@
       "OriginalItemSpec": "wwwroot\\CSS.png"
     },
     {
-      "Identity": "F:\\MiPortafolio\\wwwroot\\CV_Miguel _Vicario.pdf",
+      "Identity": "F:\\MiPortafolio\\wwwroot\\CV_Miguel_Vicario.pdf",
       "SourceId": "MiPortafolio",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\MiPortafolio\\wwwroot\\",
       "BasePath": "_content/MiPortafolio",
-      "RelativePath": "CV_Miguel _Vicario.pdf",
+      "RelativePath": "CV_Miguel_Vicario.pdf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\CV_Miguel _Vicario.pdf"
+      "OriginalItemSpec": "wwwroot\\CV_Miguel_Vicario.pdf"
     },
     {
       "Identity": "F:\\MiPortafolio\\wwwroot\\dbeaver.png",
