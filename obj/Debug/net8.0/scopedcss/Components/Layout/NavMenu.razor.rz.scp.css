@@ -3,7 +3,7 @@
     cursor: pointer;
     width: 3.5rem;
     height: 2.5rem;
-    color: yellow;
+    color: #79beee;
     position: absolute;
     top: 0.5rem;
     right: 1rem;
@@ -12,7 +12,7 @@
 }
 
 .navbar-toggler:checked[b-g6k7wlw1j8] {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .top-row[b-g6k7wlw1j8] {
@@ -60,7 +60,7 @@
     }
 
     .nav-item[b-g6k7wlw1j8]  .nav-link {
-        color: rgb(247, 230, 49);
+        color: rgb(255, 255, 255);
         background: none;
         border: none;
         border-radius: 4px;
@@ -72,14 +72,14 @@
     }
 
 .nav-item[b-g6k7wlw1j8]  a.active {
-    background: linear-gradient(90deg, #ffdf85, #ffc371, #f6cba6); /* Gradiente amarillo-naranja */
+    background: linear-gradient(90deg, #85b4ff, #79beee, #2c54e1); /* Gradiente azul */
     background-size: 300% 300%; /* Tamaño para animación */
     animation: gradient-animation-b-g6k7wlw1j8 10s ease infinite; /* Animación suave */
     color: rgb(0, 0, 0); /* Texto negro */
 }
 
 .nav-item[b-g6k7wlw1j8]  .nav-link:hover {
-    background: linear-gradient(90deg, #ffdf85, #ffc371, #f6cba6); /* Gradiente amarillo-naranja */
+    background: linear-gradient(90deg, #85b4ff, #79beee, #2c54e1); /* Gradiente azul */
     background-size: 300% 300%;
     animation: gradient-animation-b-g6k7wlw1j8 10s ease infinite;
     color: rgb(0, 0, 0); /* Texto negro */
@@ -91,7 +91,7 @@
     position: absolute;
     left: 0;
     width: 100%; /* Ocupa todo el ancho */
-    background-color: rgba(0, 0, 0);
+    background-color:#050614;
     z-index: 1000;
 }
 
@@ -143,7 +143,7 @@
         left: 0; /* Alineado al lado izquierdo */
         width: 15rem; /* Ajusta el ancho según el diseño */
         height: 100vh; /* Ocupa todo el alto menos la barra superior */
-        background-color: rgba(0, 0, 0);
+        background-color: rgb(4, 7, 12);
         z-index: 1000; /* Asegura que esté encima de otros elementos */
     }
 
