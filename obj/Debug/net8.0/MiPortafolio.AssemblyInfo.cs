@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiPortafolio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3092b5c6fa256cbfa323de3c5955dce19170d89d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dd45c5240f92454ad93550a99df325cc45ed752")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiPortafolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiPortafolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
